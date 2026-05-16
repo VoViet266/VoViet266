@@ -82,5 +82,4 @@
 
 ## 📫 Let's Connect!
 - **Email:** [voviet266@gmail.com]
-- **LinkedIn:** [Your LinkedIn URL]
-- **Portfolio:** [Your Portfolio Website Link - if any]
+- **Portfolio:** [https://voviet266.github.io/portfolio-website]
